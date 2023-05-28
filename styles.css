@@ -1,0 +1,7 @@
+#myTable {
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+#myTable td, #myTable th {
+    padding: 20px;
+}
